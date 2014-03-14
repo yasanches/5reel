@@ -2,4 +2,8 @@
 <resources>
     <string name="hello">Hello 5reel!</string>
     <string name="app_name">5reel</string>
+
+    <string name="lunar_layout_text_text">aaaa</string>
+    <string name="spin">Spin</string>
+
 </resources>
